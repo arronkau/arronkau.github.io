@@ -1,3 +1,5 @@
 # arronkau.github.io
 
-Testing testing, read all about it. 
+## Lesson Plans
+
+* [Week 01](/weeks/w01.md)
