@@ -2,4 +2,4 @@
 
 ## Lesson Plans
 
-* [Week 01](/weeks/w01)
+* [Week 01](/weeks/w01.md)
