@@ -1,4 +1,8 @@
-# arronkau.github.io
+---
+title: Valpo  Classical Conversations — Challenge 3 Home
+---
+
+[Book List](booklist.md)
 
 ## Lesson Plans
 
